@@ -1,1 +1,1 @@
-# Simple_Calculator
+A simple calculator is a device or software application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It typically features a user-friendly interface with numeric buttons, operation symbols (+, -, ×, ÷), and an equal (=) button to display the result. Some calculators may also include a clear (C) button to reset calculations.
