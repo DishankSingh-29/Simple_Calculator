@@ -43,5 +43,5 @@ Try it out by opening `index.html` in your browser.
 - Add dark mode
 - Enhance UI with animations
 
-## 🤝 Contributing
-Feel free to fork this project and submit pull requests!
+## Contribution
+- Contributions are welcome! Feel free to submit issues or pull requests.
