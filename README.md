@@ -1,10 +1,10 @@
 # Calculate Me! - A Simple Web Calculator
 
 ## Visual Overview 🖼️
-
-| Calculator Interface | 
-|----------------|
-|![Screenshot 2025-03-16 200609](https://github.com/user-attachments/assets/f867acac-9ea3-4ea6-b838-6246a687e70c)|
+      
+   | Calculator Interface | 
+   |----------------|
+   |<img src="https://github.com/user-attachments/assets/f867acac-9ea3-4ea6-b838-6246a687e70c" alt="Screenshot 2025-03-16 200609" width="700">|
 
 *Welcome to **Calculate Me!**, a lightweight and easy-to-use web-based calculator.*
 
