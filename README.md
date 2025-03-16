@@ -23,7 +23,7 @@ Try it out by opening `index.html` in your browser.
 ## 📜 Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/calculate-me.git
+   git clone https://github.com/DishankSingh-29/calculate-me.git
    ```
 2. Open `index.html` in your browser.
 
