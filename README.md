@@ -1,6 +1,12 @@
 # Calculate Me! - A Simple Web Calculator
 
-Welcome to **Calculate Me!**, a lightweight and easy-to-use web-based calculator.
+## Visual Overview 🖼️
+
+| Calculator Interface | 
+|----------------|
+|![Screenshot 2025-03-16 200609](https://github.com/user-attachments/assets/f867acac-9ea3-4ea6-b838-6246a687e70c)|
+
+*Welcome to **Calculate Me!**, a lightweight and easy-to-use web-based calculator.*
 
 ## 🚀 Features
 - Basic arithmetic operations (+, -, *, /)
