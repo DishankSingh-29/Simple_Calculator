@@ -1,1 +1,14 @@
-Test
+Git commands
+-----------------------------
+git status
+git add foldername/filename
+git commit -m "your mesage"
+git push/ git push origin main
+git pull/ git pull origin main
+git fetch
+git restore --staged <file>..." to unstage
+git branch
+git checkout
+git checkout -f branch name
+git switch
+git checkout -b branch_name
